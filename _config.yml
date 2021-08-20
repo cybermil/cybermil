@@ -1,1 +1,3 @@
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+theme: jekyll-theme-cayman
